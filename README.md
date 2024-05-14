@@ -1,7 +1,7 @@
 # Python-Autopilot
 This is a basic flight sim autopilot I'm working on, I will update this as I work on it.
 
----------------------------------------------------------------------------------------------!!! DISCLAIMER !!!--------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------!!! DISCLAIMER !!!----------------------------------------------------------------------------------------------
 
 I do not claim that this is for professional training purposes.
 I do not claim this is FAA Certified.
