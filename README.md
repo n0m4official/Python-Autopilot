@@ -14,4 +14,4 @@ You also understand that this is a personal project for myself and is not design
     - Pilot Certification,
     - Commercial Aviation use such as,
         - Implementaion in aircraft (including but not limited to Civillian, Military, and Commercial),
-        - Use in flight simulators
+        - Use in professional flight simulators
