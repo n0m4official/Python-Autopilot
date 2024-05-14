@@ -1,5 +1,5 @@
 # Security Policy
-See README.txt
+See README.md
 
 ## Supported Versions
 
