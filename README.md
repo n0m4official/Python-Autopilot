@@ -22,3 +22,5 @@ You also understand that this is a personal project for myself and is not design
         - Use in professional flight simulators
 
 Any use of this program in ways as described above is the fault of the user and not the developer. 
+
+This Document is subject to change if needed, all changes will be recorded using GitHub's history system.
